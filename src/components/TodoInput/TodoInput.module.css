@@ -1,0 +1,53 @@
+.list {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    width: 400px; 
+    margin: 0 auto;
+    margin-top: 100px;
+   
+   
+}
+
+.input {
+    width: 300px;
+    padding: 10px; 
+    margin-bottom: 10px; 
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    box-sizing: border-box; 
+
+}
+
+.button {
+    padding: 10px 20px; 
+    margin-left: 5px;
+    border: none; 
+    border-radius: 5px; 
+    background-color:#60a2bc; 
+    color: white; 
+    cursor: pointer;
+
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+.text{
+    color: #3F5B8B;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+
+
+.todoicon{
+    width: 80px;
+    height: 60px;
+}
+
+.heading{
+    display: flex;
+    align-items: center;
+}

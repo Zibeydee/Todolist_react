@@ -1,0 +1,52 @@
+.tasks {
+    width: 360px;
+    height: 37px;
+    padding: 10px;
+    padding-top: 1px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    margin-left: 19px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    color: #0c172a;
+    font-size: 12px;
+   
+  
+   
+}
+
+
+
+.buttons{
+    display: flex;
+    margin-top: 4px;
+}
+
+
+
+
+
+.delete {
+    height: 30px;
+    border: none;
+    color: #60a2bc;
+    cursor: pointer;
+}
+
+.delete:hover {
+    transform: scale(1.2);
+}
+
+
+.edit {
+    height: 30px;
+    border: none;
+    color: #60a2bc;
+    cursor: pointer;
+}
+
+.edit:hover {
+    transform: scale(1.2);
+}
